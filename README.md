@@ -5,41 +5,41 @@
 ---
 
 
-#### [ 🏃‍♀️ Quick Start ](https://github.com/austintgriffith/scaffold-eth#%EF%B8%8F-quick-start)
+#### [ 🏃‍♀️ Quick Start ](#%EF%B8%8F-quick-start)
 
-#### [ 🔭 Learning Solidity ](https://github.com/austintgriffith/scaffold-eth#-learning-solidity)
+#### [ 🔭 Learning Solidity ](#-learning-solidity)
 
-#### [ 📡 Deploy ](https://github.com/austintgriffith/scaffold-eth#-deploy)
+#### [ 📡 Deploy ](#-deploy)
 
-#### [ 📺 Frontend](https://github.com/austintgriffith/scaffold-eth#-frontend)
+#### [ 📺 Frontend](#-frontend)
 - [ 🛰 Providers ](#-providers)
-- [ 🖇 Hooks ](https://github.com/austintgriffith/scaffold-eth#-hooks)
-- [ 📦 Components ](https://github.com/austintgriffith/scaffold-eth#-components)
-- [ 🖲 UI Library ](https://github.com/austintgriffith/scaffold-eth#-ui-library)
-- [ ⛑ Helpers ](https://github.com/austintgriffith/scaffold-eth#-helpers)
-- [ 🎚 Extras ](https://github.com/austintgriffith/scaffold-eth#-extras)
--  <B> [ 🛳 Ship it! ](https://github.com/austintgriffith/scaffold-eth#-ship-it) </B>
+- [ 🖇 Hooks ](#-hooks)
+- [ 📦 Components ](#-components)
+- [ 🖲 UI Library ](#-ui-library)
+- [ ⛑ Helpers ](#-helpers)
+- [ 🎚 Extras ](#-extras)
+-  <B> [ 🛳 Ship it! ](#-ship-it) </B>
 
-#### [ 🚩 Challenges ](https://github.com/austintgriffith/scaffold-eth#-challenges)
+#### [ 🚩 Challenges ](#-challenges)
 - [ 🥩 Staking App](https://github.com/austintgriffith/scaffold-eth/tree/challenge-1-decentralized-staking)
 - [ 🏵 Token Vendor ](https://github.com/austintgriffith/scaffold-eth/tree/challenge-2-token-vendor)
 
-#### [ 👩‍💻 Examples & Tutorials ](https://github.com/austintgriffith/scaffold-eth#-examples-and-tutorials)
-- [ 🎟 Simple NFT ](https://github.com/austintgriffith/scaffold-eth/tree/simple-nft-example)
+#### [ 👩‍💻 Examples & Tutorials ](#-examples-and-tutorials)
+- [ 🎟 Simple NFT ](https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft)
 
 #### [ Built with 🏗 scaffold-eth ](https://github.com/austintgriffith/scaffold-eth#-built-with--scaffold-eth)
 - [ 🎨 Nifty.ink ](https://nifty.ink) ([code](https://github.com/austintgriffith/scaffold-eth/tree/nifty-ink-dev))
 - [ 🧑‍🎤PunkWallet.io ](https://punkwallet.io/) ([code](https://github.com/austintgriffith/scaffold-eth/tree/punk-wallet))
 
-#### [🌉 Infrastructure ](https://github.com/austintgriffith/scaffold-eth#-infrastructure)
+#### [🌉 Infrastructure ](#-infrastructure)
 
-- [ 🛰 The Graph ](https://github.com/austintgriffith/scaffold-eth#-using-the-graph)
-- [ 🔬 Tenderly ](https://github.com/austintgriffith/scaffold-eth#-using-tenderly)
-- [ 🌐 Etherscan ](https://github.com/austintgriffith/scaffold-eth#-etherscan)
-- [ 🔶 Infura ](https://github.com/austintgriffith/scaffold-eth#-using-infura)
--  🟪 [ Blocknative ](https://github.com/austintgriffith/scaffold-eth#-blocknative)
+- [ 🛰 The Graph ](#-using-the-graph)
+- [ 🔬 Tenderly ](#-using-tenderly)
+- [ 🌐 Etherscan ](#-etherscan)
+- [ 🔶 Infura ](#-using-infura)
+-  🟪 [ Blocknative ](#-blocknative)
 
-|-   <B> [ 📠 Legacy Content ](https://github.com/austintgriffith/scaffold-eth#-legacy-content) </B> - | - <B> [ 💬 Support Chat ](https://github.com/austintgriffith/scaffold-eth#-support-chat) </B> -|
+|-   <B> [ 📠 Legacy Content ](#-legacy-content) </B> - | - <B> [ 💬 Support Chat ](#-support-chat) </B> -|
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/austintgriffith/scaffold-eth)
 

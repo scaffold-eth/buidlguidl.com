@@ -12,7 +12,7 @@
 #### [ 📡 Deploy ](https://github.com/austintgriffith/scaffold-eth#-deploy)
 
 #### [ 📺 Frontend](https://github.com/austintgriffith/scaffold-eth#-frontend)
-- [ 🛰 Providers ](https://github.com/austintgriffith/scaffold-eth#-providers)
+- [ 🛰 Providers ](#-providers)
 - [ 🖇 Hooks ](https://github.com/austintgriffith/scaffold-eth#-hooks)
 - [ 📦 Components ](https://github.com/austintgriffith/scaffold-eth#-components)
 - [ 🖲 UI Library ](https://github.com/austintgriffith/scaffold-eth#-ui-library)

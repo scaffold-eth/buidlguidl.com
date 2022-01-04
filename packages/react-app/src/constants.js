@@ -644,6 +644,41 @@ export const BUILDS = [
     readMore: "https://burnyboys.com",
     image: "burnyBoys.png",
   },
+  {
+    name: "📡 Circom Starter Kit",
+    desc: "Get started with circom and zero knowledge proofs",
+    branch: "https://github.com/scaffold-eth/scaffold-eth-examples/tree/circom-starter-kit",
+    readMore: "",
+    image: "circomstarterkit.png"
+  },
+  {
+    name: "📝 Circom Contract Tutorial",
+    desc: "Develop a smart contract that uses zero knowledge proofs to change state",
+    branch: "https://github.com/scaffold-eth/scaffold-eth-examples/tree/circom-contract-tutorial",
+    readMore: "",
+    image: "circomcontracttutorial.png"
+  },
+  {
+    name: "🏘 ZK Membership",
+    desc: "Use zero knowledge to prove memership anonymously",
+    branch: "https://github.com/scaffold-eth/scaffold-eth-examples/tree/zk-prove-membership",
+    readMore: "",
+    image: "zkmembership.png"
+  },
+  {
+    name: "🗳 ZK Voting",
+    desc: "Use zero knowledge to vote anonymously",
+    branch: "https://github.com/scaffold-eth/scaffold-eth-examples/tree/zk-voting-example",
+    readMore: "",
+    image: "zkvoting.png"
+  },
+  {
+    name: "⏱️ VDF Example",
+    desc: "VDF verifier prototype example",
+    branch: "https://github.com/scaffold-eth/scaffold-eth-examples/tree/vdf-verifier-example",
+    readMore: "",
+    image: "vdfexample.png"
+  },
 
   /*
     {
@@ -961,7 +996,7 @@ export const BUILDERS = [
     role: "Full Stack",
     address: "0x614Ae4C6Eb91cEC9e6e178549c0745A827212B24",
     github: "https://github.com/scaffold-eth/scaffold-eth/commits?author=calvbore",
-    builds: [],
+    builds: ["circomstarterkit", "circomcontracttutorial", "zkmembership", "zkvoting", "vdfexample"],
     streamAddress: "0x864Fa2F20e414c9534B1DE567a30a77436c7a745", //"0x0dE7a22627b68F51bBE22f408e009146D6c56ee1",
     streamUrl: "http://calvinquin.buidlguidl.com",
   },
